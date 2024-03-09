@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unsplash</string>
+    <string name="title_browser">Browser</string>
+    <string name="title_history">History</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_wallpaper">WallPaper</string>
+</resources>
